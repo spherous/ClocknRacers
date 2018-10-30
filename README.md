@@ -1,4 +1,4 @@
-# ClockinRacers
+# Clock 'n Racers
 Game Jam racing project
 
 GDD:
